@@ -1,0 +1,12 @@
+36 17 17 44 12 3A 3D 09 26A 18 1B 58 19C 58 13 31 18
+
+-------------------------------------
+Returned values from hexa to decimal:
+decimalReturn = [54, 23, 23, 68, 18, 58, 61, 9, 618, 24, 27, 88, 412, 88, 19, 49, 24]
+
+-------------------------------------
+Returned url after first taking out spaces from input text, then hexa to decimal on values, then getting characters in those specific value indices, with constant = 1
+
+https://rb.gy/uquefg
+
+-------------------------------------
